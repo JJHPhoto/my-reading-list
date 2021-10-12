@@ -55,7 +55,7 @@ To watch a video of the application being fully demo'd please use this link: [Ap
 
 ## Workflow
 
-I decided to remake one of my class projects in a way I would use the app as opposed to the homework assignement. It might have similar terms as Goodreads but I won't be copying and pasting their ideas.
+I decided to remake one of my class projects in a way I would use the app as opposed to the homework assignement. It might have similar terms as Goodreads but I won't be copying and pasting their ideas. I'll als be using Netlify to host this app instead of Heroku.
 
 ## Resources
 
