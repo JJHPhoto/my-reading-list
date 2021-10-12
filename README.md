@@ -25,33 +25,16 @@
 
 To watch a video of the application being fully demo'd please use this link: [Application Demo](...).
 
-## Technologies Used
-
 <p>
-  <img src="https://img.shields.io/badge/-React-informational" />
-  <img src="https://img.shields.io/badge/React-Boostrap-blue" />
-  <img src="https://img.shields.io/badge/Boostrap-informational" />
-  <img src="https://img.shields.io/badge/-handlebars-yellowgreen" />
-  <img src="https://img.shields.io/badge/-heroku-red" />
-  <img src="https://img.shields.io/badge/Passport-9cf" />
-  <img src="https://img.shields.io/badge/Javascript-yellow" />
-  <img src="https://img.shields.io/badge/HTML-orange" />
-  <img src="https://img.shields.io/badge/-css-success" />
-  <img src="https://img.shields.io/badge/-json-orange" />
-  <img src="https://img.shields.io/badge/-mysql-lightgrey" />
-  <img src="https://img.shields.io/badge/-Sequelize-success" />
-  <img src="https://img.shields.io/badge/-express-9cf" />
-  <img src="https://img.shields.io/badge/-mongo-orange" />
-  <img src="https://img.shields.io/badge/-node.js-green" />
-  <img src="https://img.shields.io/badge/-inquirer-red" >
-  <img src="https://img.shields.io/badge/-bcryptjs-green" />
-  <img src="https://img.shields.io/badge/jQuery-blue"  />
-  <img src="https://img.shields.io/badge/lint-informational" />
-  <img src="https://img.shields.io/badge/-morgan-9fc" />
-  <img src="https://img.shields.io/badge/-compression-red" />
-    <img src="https://img.shields.io/badge/-babel-blueviolet" />
+  <img src="https://img.shields.io/badge/-React-informational" /> <img src="https://img.shields.io/badge/Javascript-yellow" /> <img src="https://img.shields.io/badge/HTML-orange" /> <img src="https://img.shields.io/badge/-css-success" /> <img src="https://img.shields.io/badge/-express-9cf" /> <img src="https://img.shields.io/badge/-mongoDB-orange" /> <img src="https://img.shields.io/badge/-node.js-green" />
 
 </p>
+
+## Dependencies
+
+<img src="https://img.shields.io/badge/React-Boostrap-blue" /> <img src="https://img.shields.io/badge/Boostrap-informational" /> <img src="https://img.shields.io/badge/-Netlify-blueviolet" />
+
+<p>
 
 ## Workflow
 
@@ -62,7 +45,5 @@ I decided to remake one of my class projects in a way I would use the app as opp
 [Shields.io](https://shields.io/)
 
 [React Icons](https://react-icons.github.io/react-icons/)
-
-[Font Awesome](https://fontawesome.com/)
 
 [Screencastify](https://www.screencastify.com/)
